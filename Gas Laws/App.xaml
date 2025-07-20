@@ -1,0 +1,33 @@
+﻿<Application x:Class="Gas_Laws.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Gas_Laws"
+             StartupUri="MainWindow.xaml"
+             ShutdownMode="OnLastWindowClose">
+    <Application.Resources>
+        <ResourceDictionary>
+            <local:ViewModelLocator x:Key="ViewModelLocator" />
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/LogoTheme.xaml"/>
+                <ResourceDictionary Source="Theme/HeaderImage.xaml"/>
+                <ResourceDictionary Source="Theme/HeaderBtn.xaml"/>
+                <ResourceDictionary Source="Theme/LeftSideLabel.xaml"/>
+                <ResourceDictionary Source="Theme/LeftSideLabelBold.xaml"/>
+                <ResourceDictionary Source="Theme/LeftSideImage.xaml"/>
+                <ResourceDictionary Source="Theme/LeftSideBtn.xaml"/>
+
+                <ResourceDictionary Source="Theme/SecondSide/MainTextBox.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/Formula.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/BlueText.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/TextBox.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/CalcBtn.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/AnswerTB.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/ValueTB.xaml"/>
+                
+                <ResourceDictionary Source="Theme/combobox.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/startBtn.xaml"/>
+                <ResourceDictionary Source="Theme/SecondSide/StopBtn.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

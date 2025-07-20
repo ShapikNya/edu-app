@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ControlTemplate x:Key="HeaderImage" TargetType="Button">
+        <Grid x:Name="Btn" Width="40" Background="Transparent">
+            <Border>
+                <Grid>
+                    <Image Width="13" Height="13" Stretch="Fill" Name="image">
+                        <Image.Style>
+                            <Style TargetType="{x:Type Image}">
+                                <Setter Property="Source" Value="{DynamicResource ResourceKey=Img}"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding IsMouseOver, ElementName=Btn}"
+                                                 Value="true">
+                                        <Setter Property="Source" Value="{DynamicResource ResourceKey=Img2}"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Image.Style>
+                    </Image>
+                </Grid>
+            </Border>
+        </Grid>
+    </ControlTemplate>
+</ResourceDictionary>

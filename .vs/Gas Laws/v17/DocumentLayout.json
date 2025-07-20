@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IICT work\\Gas Laws\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|d:\\iict work\\gas laws\\gas laws\\viewmodels\\boylesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\viewmodels\\boylesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\pages\\about_program.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\pages\\about_program.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\pages\\porshen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\pages\\porshen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\pages\\boyles_law.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\pages\\boyles_law.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\pages\\about_program.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\pages\\about_program.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\pages\\porshen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\pages\\porshen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|D:\\IICT work\\Gas Laws\\gas laws\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}|Gas Laws\\Gas Laws.csproj|solutionrelative:gas laws\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoylesVM.cs",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\ViewModels\\BoylesVM.cs",
+              "RelativeDocumentMoniker": "Gas Laws\\ViewModels\\BoylesVM.cs",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\ViewModels\\BoylesVM.cs",
+              "RelativeToolTip": "Gas Laws\\ViewModels\\BoylesVM.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAACAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:55:02.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About_Program.xaml",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\About_Program.xaml",
+              "RelativeDocumentMoniker": "Gas Laws\\Pages\\About_Program.xaml",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\About_Program.xaml",
+              "RelativeToolTip": "Gas Laws\\Pages\\About_Program.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T03:18:08.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Porshen.xaml.cs",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Porshen.xaml.cs",
+              "RelativeDocumentMoniker": "Gas Laws\\Pages\\Porshen.xaml.cs",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Porshen.xaml.cs",
+              "RelativeToolTip": "Gas Laws\\Pages\\Porshen.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:45:55.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porshen.xaml",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Porshen.xaml",
+              "RelativeDocumentMoniker": "Gas Laws\\Pages\\Porshen.xaml",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Porshen.xaml",
+              "RelativeToolTip": "Gas Laws\\Pages\\Porshen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T03:03:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boyles_Law.xaml",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Boyles_Law.xaml",
+              "RelativeDocumentMoniker": "Gas Laws\\Pages\\Boyles_Law.xaml",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\Boyles_Law.xaml",
+              "RelativeToolTip": "Gas Laws\\Pages\\Boyles_Law.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T16:53:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gas Laws\\MainWindow.xaml",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\MainWindow.xaml",
+              "RelativeToolTip": "Gas Laws\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T03:46:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About_Program.xaml.cs",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\About_Program.xaml.cs",
+              "RelativeDocumentMoniker": "Gas Laws\\Pages\\About_Program.xaml.cs",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\Pages\\About_Program.xaml.cs",
+              "RelativeToolTip": "Gas Laws\\Pages\\About_Program.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:46:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gas Laws\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gas Laws\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:46:34.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\IICT work\\Gas Laws\\Gas Laws\\App.xaml",
+              "RelativeDocumentMoniker": "Gas Laws\\App.xaml",
+              "ToolTip": "D:\\IICT work\\Gas Laws\\Gas Laws\\App.xaml",
+              "RelativeToolTip": "Gas Laws\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T03:48:26.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

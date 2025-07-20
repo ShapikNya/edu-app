@@ -1,0 +1,78 @@
+﻿<Window x:Class="Gas_Laws.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gas_Laws"
+        xmlns:viewmodels="clr-namespace:Gas_Laws.ViewModels"
+        d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel}"
+        DataContext="{Binding MainViewModel, Source={StaticResource ViewModelLocator}}"
+        mc:Ignorable="d"
+        Icon="Icons/book.png"
+    Title="Gas Laws" Height="450" Width="950" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Transparent" AllowsTransparency="True" ResizeMode="NoResize" >
+    <Border BorderThickness="1" BorderBrush="black">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="230*"/>
+                <ColumnDefinition Width="710*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45*" />
+                <RowDefinition Height="415*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid Name="Header" Grid.Row="0" Grid.ColumnSpan="2" Background="#3a032d" MouseDown="Header_MouseDown">
+
+                <Label Content="Gas Laws" Style="{StaticResource ResourceKey=Logo}"  Width="90"/>
+                <StackPanel HorizontalAlignment="Right" FlowDirection="RightToLeft" Orientation="Horizontal">
+
+                    <Button Template="{StaticResource ResourceKey=HeaderImage}" Click="Button_Click" >
+                        <Button.Resources>
+                            <ImageSource x:Key="Img">Icons/Cross_Na.png</ImageSource>
+                            <ImageSource x:Key="Img2">Icons/Cross_A.png</ImageSource>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button Template="{StaticResource ResourceKey=HeaderImage}" Click="Button_Click_1" >
+                        <Button.Resources>
+                            <ImageSource x:Key="Img">Icons/min_Na.png</ImageSource>
+                            <ImageSource x:Key="Img2">Icons/min_A.png</ImageSource>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button Template="{StaticResource ResourceKey=HeaderBtn}" Focusable="False" Command="{Binding OpenAP}">
+                        О программе
+                    </Button>
+
+                    <Button Template="{StaticResource ResourceKey=HeaderBtn}" Visibility="Visible" Command="{Binding OpenVis}" Focusable="False">
+                        Визуализатор
+                    </Button>
+                </StackPanel>
+
+            </Grid>
+
+            <Grid Name="Left_Side" Grid.Row="1" Grid.Column="0" Background="#f7f7f7" >
+                <StackPanel Orientation="Vertical">
+                    <Button Template="{StaticResource ResourceKey=LSImageBtn}" Focusable="False" Command="{Binding GoToBrowser}">
+                        <Button.Resources>
+                            <ImageSource x:Key="Img">Icons/Book.png</ImageSource>
+                            <ImageSource x:Key="Img2">Icons/Book.png</ImageSource>
+                        </Button.Resources>
+                    </Button>
+                    <Label Content="Рабочее пространство"  Style="{StaticResource ResourceKey=LSlabel}" />
+                    <Label Content="Законы" Style="{StaticResource ResourceKey=LSlabelB}"/>
+
+                    <Button  Template="{StaticResource ResourceKey=LSbtn}" Content="Закон Бойля - Мариотта" Command="{Binding GoToBoylesPage}"/>
+                    <Button  Template="{StaticResource ResourceKey=LSbtn}" IsEnabled="True" Content="Закон Гей-Люссака" Command="{Binding GoToLussacsPage}"/>
+                    <Button  Template="{StaticResource ResourceKey=LSbtn}" IsEnabled="True" Content="Закон Шарля" Command="{Binding GoToCharlesPage}"/>
+                                                                                                    
+                </StackPanel>
+            </Grid>
+
+            <Grid Name="Main_Side" Grid.Row="1" Grid.Column="1" Background="#ffffff">
+                <Frame Name="MainFrame" Background="LightBlue" Content="{Binding CurentPage}" NavigationUIVisibility="Hidden"/>
+            </Grid>
+
+        </Grid>
+    </Border>
+</Window>

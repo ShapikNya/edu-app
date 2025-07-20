@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ControlTemplate x:Key="TB" TargetType="TextBox">
+        <Grid>
+            <Border BorderThickness="3" BorderBrush="#3A032D" CornerRadius="4">
+                <TextBox Height="30" FontSize="16" FontWeight="Medium" BorderThickness="0" Margin="1" FontFamily="Output Sans, Helvetica, Arial, sans-serif" VerticalContentAlignment="Center" Foreground="#3A032D" Padding="10,0,0,0">
+                    
+                </TextBox> 
+            </Border>    
+        </Grid>
+    </ControlTemplate>
+</ResourceDictionary>

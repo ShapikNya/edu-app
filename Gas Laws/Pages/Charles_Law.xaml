@@ -1,0 +1,69 @@
+﻿<Page x:Class="Gas_Laws.Pages.Charles_Law"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Gas_Laws.Pages"
+      xmlns:viewmodels="clr-namespace:Gas_Laws.ViewModels"
+      d:DataContext="{d:DesignInstance Type=viewmodels:CharlesVM}"
+      DataContext="{Binding CharlesVM, Source={StaticResource ViewModelLocator}}"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Charles_Law">
+
+    <Grid Background="#FFFFFF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="260*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Background="GhostWhite">
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Orientation="Vertical">
+            <TextBlock Style="{StaticResource ResourceKey=MainTB}" Text="Calculator"/>
+            <TextBlock Style="{StaticResource ResourceKey=Formula}" Text="p₁ / T₁ = p₂ / T₂"/>
+            <Grid Height="50" Margin="50,75,50,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="10*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" >
+                    <TextBlock Style="{StaticResource ResourceKey=blueText}" Text="p₁ (Pа)"/>
+                    <TextBox Style="{StaticResource ResourceKey=TextBox}" Text="{Binding Val11}" IsEnabled="{Binding Vis11}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="0" Orientation="Horizontal" >
+                    <TextBlock Style="{StaticResource ResourceKey=blueText}" Text="T₁ (K)"/>
+                    <TextBox Style="{StaticResource ResourceKey=TextBox}" Text="{Binding Val21}" IsEnabled="{Binding Vis21}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+                    <TextBlock Style="{StaticResource ResourceKey=blueText}" Text="p₂ (Pa)"/>
+                    <TextBox Style="{StaticResource ResourceKey=TextBox}" Text="{Binding Val12}" IsEnabled="{Binding Vis12}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+                    <TextBlock Style="{StaticResource ResourceKey=blueText}" Text="T₂ (K)"/>
+                    <TextBox Style="{StaticResource ResourceKey=TextBox}" Text="{Binding Val22}" IsEnabled="{Binding Vis22}"/>
+                </StackPanel>
+            </Grid>
+            <StackPanel Orientation="Horizontal" Margin="0,30,0,0" HorizontalAlignment="Center">
+                <Button Template="{StaticResource ResourceKey=CalcBtn}" Content="Calculate" Focusable="False" Command="{Binding ShowRes}"/>
+                <Button Template="{StaticResource ResourceKey=Answer}" Content="{Binding Ex}" Focusable="False">
+                    <Button.Resources>
+                        <ResourceDictionary>
+
+                        </ResourceDictionary>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

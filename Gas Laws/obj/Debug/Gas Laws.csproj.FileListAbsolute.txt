@@ -1,0 +1,106 @@
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Gas Laws.exe.config
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Gas Laws.exe
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Gas Laws.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.AssemblyReference.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\MainWindow.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\App.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws_MarkupCompile.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\MainWindow.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.g.resources
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas_Laws.Properties.Resources.resources
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.GenerateResource.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.exe
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\LogoTheme.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\HeaderImage.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\HeaderBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\LeftSideLabel.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\LeftSideLabelBold.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\LeftSideBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\LeftSideImage.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws_MarkupCompile.lref
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Boyles_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Boyles_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\PropertyChanged.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\PropertyChanged.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.Up2Date
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\App.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Gay-Lussacs_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Gay-Lussacs_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Charles_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Charles_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\AnswerTB.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\BlueText.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\CalcBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\Formula.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\MainTextBox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\TextBox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\ValueTB.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\About_Program.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\About_Program.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveCharts.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\libSkiaSharp.dylib
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Buffers.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Drawing.Common.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Memory.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Buffers.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Memory.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws_Content.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Debug\LiveCharts.Geared.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\combobox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\startBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Theme\SecondSide\StopBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Porshen.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Pages\Porshen.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.Fody.CopyLocal.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Debug\Gas Laws.csproj.Fody.RuntimeCopyLocal.cache

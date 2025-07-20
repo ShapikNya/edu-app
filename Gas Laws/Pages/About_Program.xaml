@@ -1,0 +1,59 @@
+﻿<Window x:Class="Gas_Laws.Pages.About_Program"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gas_Laws.Pages"
+        xmlns:viewmodels="clr-namespace:Gas_Laws.ViewModels"
+        d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel}"
+        DataContext="{Binding MainViewModel, Source={StaticResource ViewModelLocator}}"
+        mc:Ignorable="d"
+        Icon="../Icons/book.png"
+        Title="About the Program" Height="380" Width="420" WindowStyle="None" Background="Transparent" AllowsTransparency="True" ResizeMode="NoResize"
+        >
+    <Border BorderBrush="Black" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="59*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Name="Header" VerticalAlignment="Center" Height="40" Background="#3a032d" MouseDown="Header_MouseDown">
+                <StackPanel HorizontalAlignment="Right" FlowDirection="RightToLeft" Orientation="Horizontal">
+
+                    <Button Template="{StaticResource ResourceKey=HeaderImage}" Click="Button_Click" >
+                        <Button.Resources>
+                            <ImageSource x:Key="Img">../Icons/Cross_Na.png</ImageSource>
+                            <ImageSource x:Key="Img2">../Icons/Cross_A.png</ImageSource>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button Template="{StaticResource ResourceKey=HeaderImage}" Click="Button_Click_1" >
+                        <Button.Resources>
+                            <ImageSource x:Key="Img">../Icons/min_Na.png</ImageSource>
+                            <ImageSource x:Key="Img2">../Icons/min_A.png</ImageSource>
+                        </Button.Resources>
+                    </Button>
+
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <StackPanel Orientation="Vertical" Background="#FFFFFF">
+                    <Label Content="Gas Laws" Style="{StaticResource ResourceKey=Logo}" Foreground="black" FontSize="25" HorizontalAlignment="Center"  Padding="0,0,0,0" Margin="0,8,0,0"/>
+                    <Label Content="ver. 2-0" FontFamily="Output Sans, Helvetica, Arial, sans-serif" Foreground="Gray" FontSize="16" HorizontalAlignment="Center"  Margin="0,8,0,0"/>
+                    <TextBlock TextWrapping="Wrap"  Text="Данная программа предназначена для работы с газовыми законами. Здесь вы можете ввести первоначальные параметры и проследить динамику их изменения." FontFamily="Output Ssatans, Helvetica, Arial, sans-serif" Foreground="black" FontSize="16" HorizontalAlignment="Left"  Margin="50,55,50,0" Width="316"/>
+
+                    <StackPanel Margin="50,45,0,0" Orientation="Horizontal">
+                        <TextBlock TextWrapping="NoWrap"  Width="50"  Text="Email:" Foreground="black" FontSize="16" HorizontalAlignment="Left"/>
+                        <TextBlock TextWrapping="NoWrap"  Text="nikita_shapovalov_ivt221@mail.ru" FontWeight="SemiBold" Foreground="black" FontSize="16" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+                    </StackPanel>
+                    <StackPanel Margin="50,15,0,8" Orientation="Horizontal">
+                        <TextBlock TextWrapping="NoWrap"  Width="50"  Text="Git:" Foreground="black" FontSize="16" HorizontalAlignment="Left"/>
+                        <TextBlock TextWrapping="NoWrap"  Text="Github.com/ShapikNya" FontWeight="SemiBold" Foreground="black" FontSize="16" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

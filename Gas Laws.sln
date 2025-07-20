@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gas Laws", "Gas Laws\Gas Laws.csproj", "{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gas_Laws", "Gas_Laws\Gas_Laws.vdproj", "{873DD5DE-E92C-4B48-A754-E9D2D27A1989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D6C19B-0EED-4D6D-A41F-9D4C0483A5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873DD5DE-E92C-4B48-A754-E9D2D27A1989}.Debug|Any CPU.ActiveCfg = Debug
+		{873DD5DE-E92C-4B48-A754-E9D2D27A1989}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B069754E-07B2-497F-B573-207D8368DA3A}
+	EndGlobalSection
+EndGlobal

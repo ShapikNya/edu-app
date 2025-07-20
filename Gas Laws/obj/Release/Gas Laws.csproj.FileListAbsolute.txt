@@ -1,0 +1,106 @@
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Gas Laws.exe.config
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Gas Laws.exe
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Gas Laws.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\DevExpress.Mvvm.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\DevExpress.Mvvm.UI.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Newtonsoft.Json.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\PropertyChanged.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\DevExpress.Mvvm.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\DevExpress.Mvvm.UI.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\Newtonsoft.Json.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\PropertyChanged.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.AssemblyReference.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\AnswerTB.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\BlueText.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\CalcBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\Formula.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\MainTextBox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\TextBox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\ValueTB.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\HeaderBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\HeaderImage.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\LeftSideBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\LeftSideImage.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\LeftSideLabel.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\LeftSideLabelBold.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\LogoTheme.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\MainWindow.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\About_Program.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Boyles_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Charles_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Gay-Lussacs_Law.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\App.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws_MarkupCompile.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws_MarkupCompile.lref
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\App.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\MainWindow.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\About_Program.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Boyles_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Charles_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Gay-Lussacs_Law.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.g.resources
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas_Laws.Properties.Resources.resources
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.GenerateResource.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.Fody.CopyLocal.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.csproj.Up2Date
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.exe
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\libHarfBuzzSharp.dylib
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\x86\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\x64\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\arm64\libHarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\libSkiaSharp.dylib
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\x86\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\x64\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\arm64\libSkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\HarfBuzzSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveCharts.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveCharts.Geared.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.SkiaSharpView.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.HarfBuzz.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.WPF.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Buffers.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Drawing.Common.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Memory.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\HarfBuzzSharp.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\HarfBuzzSharp.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.SkiaSharpView.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.HarfBuzz.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.HarfBuzz.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.WPF.pdb
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\SkiaSharp.Views.WPF.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Buffers.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Memory.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\combobox.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\startBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Theme\SecondSide\StopBtn.baml
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Porshen.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Gas Laws_Content.g.cs
+C:\Users\Shapi\Desktop\Gas Laws\Gas Laws\obj\Release\Pages\Porshen.baml
